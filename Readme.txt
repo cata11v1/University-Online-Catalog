@@ -1,6 +1,6 @@
 Acest proiect implementeaza un Catalog care poate fi folosit in mediul Universitar.
-In cadrul acestui proiect am pus in aplicare concepte ale programarii pe obiecte
-cum ar fi mostenirea, incapsulare, genericitate, polimorfism si abstractizare.
+In cadrul acestui proiect am pus in aplicare concepte ale programarii orientate pe
+obiecte cum ar fi mostenirea, incapsulare, genericitate, polimorfism si abstractizare.
 Pe langa acestea in acest proiect am folosit diferite desing patternuri, cum ar fi
 Singleton in cadrul clasei catalog, Factory pentru clasa UserFactory, Builder
 pentru clasa Course si alte patternuri.
